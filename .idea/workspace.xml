@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca5a0618-3d0d-4dbf-a398-885f9889bf3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VGjeHdl2proqPsXIj4V4eYeiDj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\#Curso de Java Udemy\Curso_Java_Udemy_Codigos\src\secao10_comportamentoMemoria_arrays_listas" />
+      <recent name="E:\#Curso de Java Udemy\Curso_Java_Udemy_Codigos\src\secao10_comportamentoMemoria_arrays_listas\matriz" />
+      <recent name="E:\#Curso de Java Udemy\Curso_Java_Udemy_Codigos\src\secao10_comportamentoMemoria_arrays_listas\application" />
+      <recent name="E:\#Curso de Java Udemy\Curso_Java_Udemy_Codigos\src\secao10_comportamentoMemoria_arrays_listas\entities" />
+      <recent name="E:\#Curso de Java Udemy\Curso_Java_Udemy_Codigos\src\secao08\membrosEstaticos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercicio">
+    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.application.Exercicio" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.application.Exercicio1" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.ExercicioVetor" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.Lista" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao09_construtores_this_sobrecarga_encapsulamento.exercicio01" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao09_construtores_this_sobrecarga_encapsulamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio" />
+        <item itemvalue="Application.Exercicio1" />
+        <item itemvalue="Application.Lista" />
+        <item itemvalue="Application.ExercicioVetor" />
+        <item itemvalue="Application.exercicio01 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca5a0618-3d0d-4dbf-a398-885f9889bf3a" name="Default Changelist" comment="" />
+      <created>1576886419554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576886419554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1578253419352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578253419352" />
+    <state x="463" y="95" key="FileChooserDialogImpl" timestamp="1578624665468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="95" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578624665468" />
+    <state width="1322" height="216" key="GridCell.Tab.-1.bottom" timestamp="1577502593259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.-1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577502593259" />
+    <state width="1322" height="216" key="GridCell.Tab.-1.center" timestamp="1577502593259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.-1.center/0.0.1366.728@0.0.1366.728" timestamp="1577502593259" />
+    <state width="1322" height="216" key="GridCell.Tab.-1.left" timestamp="1577502593259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.-1.left/0.0.1366.728@0.0.1366.728" timestamp="1577502593259" />
+    <state width="1322" height="216" key="GridCell.Tab.-1.right" timestamp="1577502593259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1577502593259" />
+    <state width="1322" height="135" key="GridCell.Tab.0.bottom" timestamp="1578624458743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578624458743" />
+    <state width="1322" height="135" key="GridCell.Tab.0.center" timestamp="1578624458743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578624458743" />
+    <state width="1322" height="135" key="GridCell.Tab.0.left" timestamp="1578624458742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578624458742" />
+    <state width="1322" height="135" key="GridCell.Tab.0.right" timestamp="1578624458743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578624458743" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1577502583107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577502583107" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1577502583106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577502583106" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1577502583105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577502583105" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1577502583106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577502583106" />
+    <state width="608" height="446" key="SwitcherDM" timestamp="1578254684952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="608" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1578254684952" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Curso_Java_Udemy$exercicio1__1_.ic" NAME="exercicio1 (1) Coverage Results" MODIFIED="1577500143149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>secao06_estruturasRepetitivas.estruturaRepetitivaFor.*</FILTER>
+    </SUITE>
+  </component>
+</project>
