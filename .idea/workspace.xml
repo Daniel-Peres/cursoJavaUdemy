@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca5a0618-3d0d-4dbf-a398-885f9889bf3a" name="Default Changelist" comment="" />
+    <list default="true" id="ca5a0618-3d0d-4dbf-a398-885f9889bf3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VGjeHdl2proqPsXIj4V4eYeiDj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -145,10 +151,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578253419352" />
-    <state x="463" y="95" key="FileChooserDialogImpl" timestamp="1578624665468">
+    <state x="363" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578796838620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="95" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578624665468" />
+    <state x="363" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1578796838620" />
+    <state x="463" y="95" key="FileChooserDialogImpl" timestamp="1578631341037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="95" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578631341037" />
     <state width="1322" height="216" key="GridCell.Tab.-1.bottom" timestamp="1577502593259">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -165,22 +175,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="216" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1577502593259" />
-    <state width="1322" height="135" key="GridCell.Tab.0.bottom" timestamp="1578624458743">
+    <state width="1322" height="135" key="GridCell.Tab.0.bottom" timestamp="1578631347037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578624458743" />
-    <state width="1322" height="135" key="GridCell.Tab.0.center" timestamp="1578624458743">
+    <state width="1322" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578631347037" />
+    <state width="1322" height="135" key="GridCell.Tab.0.center" timestamp="1578631347036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578624458743" />
-    <state width="1322" height="135" key="GridCell.Tab.0.left" timestamp="1578624458742">
+    <state width="1322" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578631347036" />
+    <state width="1322" height="135" key="GridCell.Tab.0.left" timestamp="1578631347036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578624458742" />
-    <state width="1322" height="135" key="GridCell.Tab.0.right" timestamp="1578624458743">
+    <state width="1322" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578631347036" />
+    <state width="1322" height="135" key="GridCell.Tab.0.right" timestamp="1578631347036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578624458743" />
+    <state width="1322" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578631347036" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1577502583107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -201,6 +211,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="608" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1578254684952" />
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578796770516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578796770516" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Java_Udemy$exercicio1__1_.ic" NAME="exercicio1 (1) Coverage Results" MODIFIED="1577500143149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
