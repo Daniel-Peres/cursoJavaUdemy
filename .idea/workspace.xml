@@ -26,7 +26,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VGjeHdl2proqPsXIj4V4eYeiDj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,13 +47,13 @@
       <recent name="E:\#Curso de Java Udemy\Curso_Java_Udemy_Codigos\src\secao08\membrosEstaticos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio">
-    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.application.Exercicio" />
+  <component name="RunManager" selected="Application.UsoDateCalendar">
+    <configuration name="FuncoesSintaxe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao07_bitwise_funcoesParaStrings.funcoesSintaxe.FuncoesSintaxe" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.application.*" />
+          <option name="PATTERN" value="secao07_bitwise_funcoesParaStrings.funcoesSintaxe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.application.Exercicio1" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao07_bitwise_funcoesParaStrings.bitwise.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.application.*" />
+          <option name="PATTERN" value="secao07_bitwise_funcoesParaStrings.bitwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.ExercicioVetor" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao07_bitwise_funcoesParaStrings.funcoesParaString.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.*" />
+          <option name="PATTERN" value="secao07_bitwise_funcoesParaStrings.funcoesParaString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10_comportamentoMemoria_arrays_listas.Lista" />
+    <configuration name="UsoDateCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11_Date_SimpleFormatDate_DateComCalendar.DateCalendar.UsoDateCalendar" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10_comportamentoMemoria_arrays_listas.*" />
+          <option name="PATTERN" value="secao11_Date_SimpleFormatDate_DateComCalendar.DateCalendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao09_construtores_this_sobrecarga_encapsulamento.exercicio01" />
+    <configuration name="UsoDoDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11_Date_SimpleFormatDate_DateComCalendar.Date.UsoDoDate" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao09_construtores_this_sobrecarga_encapsulamento.*" />
+          <option name="PATTERN" value="secao11_Date_SimpleFormatDate_DateComCalendar.Date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio" />
-        <item itemvalue="Application.Exercicio1" />
-        <item itemvalue="Application.Lista" />
-        <item itemvalue="Application.ExercicioVetor" />
-        <item itemvalue="Application.exercicio01 (1)" />
+        <item itemvalue="Application.UsoDateCalendar" />
+        <item itemvalue="Application.UsoDoDate" />
+        <item itemvalue="Application.FuncoesSintaxe" />
+        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -175,22 +177,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="216" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1577502593259" />
-    <state width="1322" height="135" key="GridCell.Tab.0.bottom" timestamp="1578631347037">
+    <state width="1322" height="135" key="GridCell.Tab.0.bottom" timestamp="1578804177407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578631347037" />
-    <state width="1322" height="135" key="GridCell.Tab.0.center" timestamp="1578631347036">
+    <state width="1322" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578804177407" />
+    <state width="1322" height="135" key="GridCell.Tab.0.center" timestamp="1578804177407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578631347036" />
-    <state width="1322" height="135" key="GridCell.Tab.0.left" timestamp="1578631347036">
+    <state width="1322" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578804177407" />
+    <state width="1322" height="135" key="GridCell.Tab.0.left" timestamp="1578804177407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578631347036" />
-    <state width="1322" height="135" key="GridCell.Tab.0.right" timestamp="1578631347036">
+    <state width="1322" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578804177407" />
+    <state width="1322" height="135" key="GridCell.Tab.0.right" timestamp="1578804177407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578631347036" />
+    <state width="1322" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578804177407" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1577502583107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -211,10 +213,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="608" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1578254684952" />
-    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578796770516">
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578797949680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578796770516" />
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578797949680" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Java_Udemy$exercicio1__1_.ic" NAME="exercicio1 (1) Coverage Results" MODIFIED="1577500143149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
