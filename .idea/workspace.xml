@@ -2,19 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d54d72b7-8fda-4bef-a7ff-f7aba26843f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/entities/OutsourcedEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso_Java_Udemy/META-INF/Curso_Java_Udemy.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula01_heranca/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula01_heranca/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula01_heranca/entities/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/entities/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/entities/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/entities/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/entities/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/entities/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/entities/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/entities/ImportedProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/entities/UsedProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso_Java_Udemy/META-INF/Curso_Java_Udemy.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicios_resolvidos/exercicio01/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicios_resolvidos/exercicio01/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/entities/OutsourcedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicios_resolvidos/exercicio01/entities/OutsourcedEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +43,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WfKBfCbtIBO6M5rlwMs1mBEW7E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,13 +54,60 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao14_heranca_e_polimorfismo.application.Program" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="secao14_heranca_e_polimorfismo.aulas.aula03_sobreposicao_super.application" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Documents\#Daniel\#Fatec\#Curso_Java_Udemy\Curso_Java_Udemy\src\secao14_heranca_e_polimorfismo\aulas\aula01\application" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program (2)">
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14_heranca_e_polimorfismo.aulas.aula2_upcasting_downcasting.application.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao14_heranca_e_polimorfismo.application.*" />
+          <option name="PATTERN" value="secao14_heranca_e_polimorfismo.aulas.aula2_upcasting_downcasting.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14_heranca_e_polimorfismo.aulas.aula04_classes_abstratas.application.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao14_heranca_e_polimorfismo.aulas.aula04_classes_abstratas.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.application.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14_heranca_e_polimorfismo.aulas.aula01_heranca.application.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao14_heranca_e_polimorfismo.aulas.aula01_heranca.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,6 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (2)" />
+        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
@@ -90,22 +154,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579535948135" />
-    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1579547253576">
+    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1579634708166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579547253576" />
-    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1579547253576">
+    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
+    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1579634708166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579547253576" />
-    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1579547253576">
+    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
+    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1579634708166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579547253576" />
-    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1579547253576">
+    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
+    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1579634708166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579547253576" />
+    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579535091661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

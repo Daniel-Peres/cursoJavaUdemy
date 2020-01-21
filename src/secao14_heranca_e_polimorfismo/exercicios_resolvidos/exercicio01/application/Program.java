@@ -1,7 +1,7 @@
-package secao14_heranca_e_polimorfismo.application;
+package secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.application;
 
-import secao14_heranca_e_polimorfismo.entities.Employee;
-import secao14_heranca_e_polimorfismo.entities.OutsourcedEmployee;
+import secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.entities.Employee;
+import secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.entities.OutsourcedEmployee;
 
 import java.util.ArrayList;
 import java.util.List;

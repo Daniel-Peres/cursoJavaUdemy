@@ -1,4 +1,4 @@
-package secao14_heranca_e_polimorfismo.entities;
+package secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.entities;
 
 public class Employee {
     private String name;
