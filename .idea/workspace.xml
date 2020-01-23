@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d54d72b7-8fda-4bef-a7ff-f7aba26843f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/secao15_tratamento_de_excessoes/aulas/bloco_finally/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15_tratamento_de_excessoes/aulas/estrutura_try_catch/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15_tratamento_de_excessoes/aulas/pilha_de_cahamadas_de_metodos/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15_tratamento_de_excessoes/exercicio_resolvido/implementacao_01_muito_ruim/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15_tratamento_de_excessoes/exercicio_resolvido/implementacao_01_muito_ruim/model/entities/Reservation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio02/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio02/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +44,7 @@
       <recent name="C:\Users\Daniel\Documents\#Daniel\#Fatec\#Curso_Java_Udemy\Curso_Java_Udemy\src\secao14_heranca_e_polimorfismo\aulas\aula01\application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program (3)">
+  <component name="RunManager" selected="Application.Program (5)">
     <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao14_heranca_e_polimorfismo.aulas.aula2_upcasting_downcasting.application.Program" />
       <module name="Curso_Java_Udemy" />
@@ -80,12 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.application.Program" />
+    <configuration name="Program (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15_tratamento_de_excessoes.aulas.estrutura_try_catch.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao14_heranca_e_polimorfismo.exercicios_resolvidos.exercicio01.application.*" />
+          <option name="PATTERN" value="secao15_tratamento_de_excessoes.aulas.estrutura_try_catch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15_tratamento_de_excessoes.exercicio_resolvido.implementacao_01_muito_ruim.application.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao15_tratamento_de_excessoes.exercicio_resolvido.implementacao_01_muito_ruim.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (5)" />
+        <item itemvalue="Application.Program (4)" />
         <item itemvalue="Application.Program (3)" />
         <item itemvalue="Application.Program (2)" />
         <item itemvalue="Application.Program (1)" />
-        <item itemvalue="Application.Program (1)" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -150,22 +167,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="497" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579780477716" />
-    <state width="914" height="271" key="GridCell.Tab.0.bottom" timestamp="1579800834563">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1579806951778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579800834563" />
-    <state width="914" height="271" key="GridCell.Tab.0.center" timestamp="1579800834563">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579806951778" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1579806951778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579800834563" />
-    <state width="914" height="271" key="GridCell.Tab.0.left" timestamp="1579800834563">
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579806951778" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1579806951778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579800834563" />
-    <state width="914" height="271" key="GridCell.Tab.0.right" timestamp="1579800834563">
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579806951778" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1579806951778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579800834563" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579806951778" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579535091661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
