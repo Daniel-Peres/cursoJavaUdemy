@@ -23,22 +23,17 @@ public class Program {
         for(int i = 1; i<=n; i++){
             System.out.println("Tax payer #" + i + " data:");
             System.out.print("Individual or company (i/c)? ");
-            char c = sc.next().charAt(0);
-            if( c == 'i'){
-                System.out.print("Name: ");
-                sc.nextLine();
-                String name = sc.nextLine();
-                System.out.print("Anual income: ");
-                Double anualIncome = sc.nextDouble();
+            char type = sc.next().charAt(0);
+            System.out.print("Name: ");
+            sc.nextLine();
+            String name = sc.nextLine();
+            System.out.print("Anual income: ");
+            Double anualIncome = sc.nextDouble();
+            if( type == 'i'){
                 System.out.print("Health expenditures: ");
                 Double healthExpenditures = sc.nextDouble();
                 list.add(new Individual(name, anualIncome, healthExpenditures));
             }else {
-                System.out.print("Name: ");
-                sc.nextLine();
-                String name = sc.nextLine();
-                System.out.print("Anual income: ");
-                Double anualIncome = sc.nextDouble();
                 System.out.print("Number of employees: ");
                 Integer numberOfEmployees = sc.nextInt();
                 list.add(new Company(name, anualIncome, numberOfEmployees));
@@ -47,7 +42,7 @@ public class Program {
 
         System.out.println();
         System.out.println("TAXES PAID:");
-        int sum = 0;
+        double sum = 0.0;
         for(TaxPayer tax : list){
             sum += tax.tax();
             System.out.println(
