@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d54d72b7-8fda-4bef-a7ff-f7aba26843f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Curso_Java_Udemy/META-INF/Curso_Java_Udemy.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula01_heranca/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula01_heranca/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula01_heranca/entities/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/entities/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula03_sobreposicao_super/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/entities/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula04_classes_abstratas/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/entities/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/aulas/aula2_upcasting_downcasting/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/entities/ImportedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicio_fixacao/exercicio01/entities/UsedProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicios_resolvidos/exercicio01/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicios_resolvidos/exercicio01/entities/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/entities/OutsourcedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14_heranca_e_polimorfismo/exercicios_resolvidos/exercicio01/entities/OutsourcedEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,22 +131,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579535948135" />
-    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1579634708166">
+    <state x="497" y="115" key="CommitChangelistDialog2" timestamp="1579780477716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
-    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1579634708166">
+    <state x="497" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579780477716" />
+    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1579635313486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
-    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1579634708166">
+    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579635313486" />
+    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1579635313486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
-    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1579634708166">
+    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579635313486" />
+    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1579635313486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579634708166" />
+    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579635313486" />
+    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1579635313486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579635313486" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579535091661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
