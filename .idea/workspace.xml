@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd5aa165-6bdf-4523-ad33-b8bc1ce0fba4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso_Java_Udemy/META-INF/Curso_Java_Udemy.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +31,65 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao15_tratamento_de_excessoes.exercicio_fixacao.application.Program" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.fileReader_e_bufferedReader.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao15_tratamento_de_excessoes.exercicio_fixacao.application.*" />
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.fileReader_e_bufferedReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.try_with_resources.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.try_with_resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.fileWriter_e_bufferedWriter.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.fileWriter_e_bufferedWriter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.manipulandoPastas_com_File.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.manipulandoPastas_com_File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.informacoes_do_caminho_do_arquivo.Program" />
+      <module name="Curso_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.informacoes_do_caminho_do_arquivo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,6 +100,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Program (5)" />
+        <item itemvalue="Application.Program (4)" />
+        <item itemvalue="Application.Program (3)" />
+        <item itemvalue="Application.Program (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -71,22 +125,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579904960655" />
-    <state width="637" height="181" key="GridCell.Tab.0.bottom" timestamp="1579907602436">
+    <state width="637" height="137" key="GridCell.Tab.0.bottom" timestamp="1580067655058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579907602436" />
-    <state width="637" height="181" key="GridCell.Tab.0.center" timestamp="1579907602435">
+    <state width="637" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
+    <state width="637" height="137" key="GridCell.Tab.0.center" timestamp="1580067655058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579907602435" />
-    <state width="637" height="181" key="GridCell.Tab.0.left" timestamp="1579907602435">
+    <state width="637" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
+    <state width="637" height="137" key="GridCell.Tab.0.left" timestamp="1580067655058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579907602435" />
-    <state width="637" height="181" key="GridCell.Tab.0.right" timestamp="1579907602436">
+    <state width="637" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
+    <state width="637" height="137" key="GridCell.Tab.0.right" timestamp="1580067655058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579907602436" />
+    <state width="637" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579903258245">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
