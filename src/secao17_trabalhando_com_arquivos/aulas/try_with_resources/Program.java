@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Program {
     public static void main(String[] args) {
 
-        String path = "F:\\#Curso de Java Udemy\\#Curso_Java_Udemy\\in.txt";
+        String path = "F:\\#Curso de Java Udemy\\#Curso_Java_Udemy\\Arquivos _Gerados_nos_exercicios\\in.txt";
 
         try (BufferedReader br = new BufferedReader(new FileReader(path))){
             String line = br.readLine();

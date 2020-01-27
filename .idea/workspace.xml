@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cd5aa165-6bdf-4523-ad33-b8bc1ce0fba4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/fileReader_e_bufferedReader/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/fileReader_e_bufferedReader/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/fileWriter_e_bufferedWriter/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/fileWriter_e_bufferedWriter/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/lendoArquivo_com_File_e_Scanner/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/lendoArquivo_com_File_e_Scanner/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/try_with_resources/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao17_trabalhando_com_arquivos/aulas/try_with_resources/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +36,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager" selected="Application.Program">
-    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.fileReader_e_bufferedReader.Program" />
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.lendoArquivo_com_File_e_Scanner.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.fileReader_e_bufferedReader.*" />
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.lendoArquivo_com_File_e_Scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="Program (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.manipulandoPastas_com_File.Program" />
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.exercicio_proposto.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.manipulandoPastas_com_File.*" />
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.exercicio_proposto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.aulas.informacoes_do_caminho_do_arquivo.Program" />
+      <option name="MAIN_CLASS_NAME" value="secao17_trabalhando_com_arquivos.exercicio_proposto.application.Program" />
       <module name="Curso_Java_Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.aulas.informacoes_do_caminho_do_arquivo.*" />
+          <option name="PATTERN" value="secao17_trabalhando_com_arquivos.exercicio_proposto.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,9 +105,9 @@
       <list>
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Program (5)" />
-        <item itemvalue="Application.Program (4)" />
         <item itemvalue="Application.Program (3)" />
-        <item itemvalue="Application.Program (2)" />
+        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.Program (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -121,26 +125,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1579904960655">
+    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1580091836994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579904960655" />
-    <state width="637" height="137" key="GridCell.Tab.0.bottom" timestamp="1580067655058">
+    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580091836994" />
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1580093808851">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
-    <state width="637" height="137" key="GridCell.Tab.0.center" timestamp="1580067655058">
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580093808851" />
+    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1580093808851">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
-    <state width="637" height="137" key="GridCell.Tab.0.left" timestamp="1580067655058">
+    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580093808851" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1580093808850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
-    <state width="637" height="137" key="GridCell.Tab.0.right" timestamp="1580067655058">
+    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580093808850" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1580093808851">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580067655058" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580093808851" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579903258245">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
